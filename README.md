@@ -2,7 +2,7 @@
 
 📁 There is a Asabeneh’s repository which is called 30-Days-Of-JavaScript.
 
-👨🏼‍💻 This repository guides to learn JavaScript programming language in 30 days.
+👨🏼‍💻 That repository guides to learn JavaScript programming language in 30 days.
 
 🙂 It may take more than 30 days, just don’t worry about that.
 
