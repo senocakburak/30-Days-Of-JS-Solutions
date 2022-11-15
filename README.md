@@ -6,7 +6,7 @@
 
 🙂 It may take more than 30 days, just don’t worry about that.
 
-📝 This repository has exercises,  at the end of the each day.
+📝 That repository has exercises,  at the end of the each day.
 
 🔏 I’ll try to do all that exercises step by step.
 
