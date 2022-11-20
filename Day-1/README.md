@@ -1,5 +1,3 @@
-# <<<<<<< HEAD
-
 <h1>Day-1 Introduction</h1>
 
 <h2>Day-1 Exercises</h2>
