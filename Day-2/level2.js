@@ -54,3 +54,17 @@ console.log(test6[rndIndex]);
 console.log(
   "1\t1\t1\t1\t1\n2\t1\t2\t4\t8\n3\t1\t3\t9\t27\n4\t1\t4\t16\t64\n5\t1\t5\t25\t125"
 );
+
+// #STEP-12
+let test7 =
+  "You cannot end a sentence with because because because is a conjunction";
+
+// first way
+let newTest7 = test7.substr(0, 31) + test7.substr(55, 16);
+console.log(newTest7);
+
+// second way
+/*let newTest7 = test7.replaceAll("because", "");
+console.log(newTest7);
+let newNew = newTest7.replace("    ", " ");
+console.log(newNew);*/
